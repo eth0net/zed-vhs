@@ -2,6 +2,8 @@
 
 An extension to add [VHS](https://github.com/charmbracelet/vhs) `.tape` file support to Zed.
 
+![Example](assets/example.png)
+
 ## Installation
 
 Install from the integrated Zed extensions store.
