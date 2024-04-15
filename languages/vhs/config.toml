@@ -1,0 +1,25 @@
+name = "VHS"
+grammar = "vhs"
+path_suffixes = ["tape"]
+line_comments = ["# "]
+
+[[brackets]]
+start = "\""
+end = "\""
+close = true
+newline = false
+not_in = ["string"]
+
+[[brackets]]
+start = "'"
+end = "'"
+close = true
+newline = false
+not_in = ["string"]
+
+[[brackets]]
+start = "`"
+end = "`"
+close = true
+newline = false
+not_in = ["string"]
