@@ -1,12 +1,15 @@
 # zed-vhs
 
-An extension to add [VHS](https://github.com/charmbracelet/vhs) `.tape` file support to Zed.
+A [Zed](https://zed.dev) extension providing syntax highlighting for
+[VHS](https://github.com/charmbracelet/vhs) `.tape` files.
 
 ![Example](assets/example.png)
 
 ## Installation
 
 Install from the integrated Zed extensions store.
+
+![Install](assets/install.png)
 
 ## Credits
 
